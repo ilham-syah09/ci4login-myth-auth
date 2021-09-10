@@ -54,6 +54,19 @@
                     <span>Edit Profile</span></a>
             </li>
 
+
+            <!-- Heading -->
+            <div class="sidebar-heading">
+                Data Master
+            </div>
+
+            <!-- Nav Item - Tables -->
+            <li class="nav-item">
+                <a class="nav-link" href="<?= base_url('user/data'); ?>">
+                    <i class="fas fa-user-edit"></i>
+                    <span>Data</span></a>
+            </li>
+
             <!-- Divider -->
             <hr class="sidebar-divider d-none d-md-block">
 
